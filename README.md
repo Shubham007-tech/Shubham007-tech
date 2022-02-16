@@ -29,11 +29,6 @@
 </br>
 </br>
 
-## Github Profile View Count:- <img align="right" src="https://profile-counter.glitch.me/SubhamRaoniar28/count.svg" />
-
-</br>
-</br>
-
 
 
 
@@ -63,6 +58,8 @@
 </p>
 
 ## 📊 My  Github Stats
+
+![Shubham007-tech stats](https://github-readme-stats.vercel.app/api?username=Shubham007-tech&show_icons=true&theme=radical) 
 
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
