@@ -22,7 +22,7 @@
 
 <p>
 <a href="https://shubham007-tech.github.io/Groww_website_Clone/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Groww.in&color=01AA8B&logo=Groww&logoColor=FFFFFF&label=" alt="Groww"/></a>
-<a href="https://shubham007-tech.github.io/Clone-Banggood.com/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Banggood.com&color=2540A1&logoColor=ff2b2a&label=" alt="Best Buy" /></a>
+<a href="https://shubham007-tech.github.io/Clone-Banggood.com/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Banggood.com&color=ff2b2a&logoColor=ff2b2a&label=" alt="Banggood" /></a>
 <a href="https://clone-cult-fit.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Cult Fit&color=000000&logo=Cult Fit&logoColor=FFFFFF&label=" alt="Cult Fit"/></a>
 </p>
 
