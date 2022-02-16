@@ -78,7 +78,7 @@
 <p align="left">
 
 <a href = "www.linkedin.com/in/shubham-bharti-a086b5225"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+<a href = "www.linkedin.com/in/shubham-bharti-a086b5225"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq0wwPB2UofT6Z3G7SUbUr-cEmbJN1j63n2g&usqp=CAU"/></a>
 
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
