@@ -5,7 +5,7 @@
   
 
  </h3>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h4 align="center">I'm a passionate Full Stack Developer from India.</h4>
 
 ## 🙋‍♂️ About Me
 
