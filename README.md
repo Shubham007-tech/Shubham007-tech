@@ -1,7 +1,7 @@
 <a href="#"><img width="40%" height="auto" margin="auto" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611c7e28fc28d322bc01d99838ee623c76e9b9bcdbc&rid=giphy.gif&ct=g" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Bharti</h1>
-<h3>Aspiring Web Developer with a demonstrated history of working in the higher education industry. Currently learning full-stack web development in Masai school.
+<h3>Web Developer with a demonstrated history of working in the higher education industry. Currently working with GlobalLogic.
   
 
  </h3>
