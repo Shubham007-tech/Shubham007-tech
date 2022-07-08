@@ -9,8 +9,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working with **[GlobalLogic]( https://www.globallogic.com/in/)**
-- 🔭 I’m currently working on **[Clone_of_Ikea.com]( https://ikeaclone.netlify.app/)**
+- 🔭 I’m currently working with **[GlobalLogic]( https://www.globallogic.com/in/)** as a Developer
+
+- 🔭 I’m also working on **[Clone_of_Ikea.com]( https://ikeaclone.netlify.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
