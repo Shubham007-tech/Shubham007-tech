@@ -11,10 +11,6 @@
 
 - 🔭 I’m currently working with **[GlobalLogic]( https://www.globallogic.com/in/)** as a Developer
 
-- 🔭 I’m also working on **[Clone_of_Ikea.com]( https://ikeaclone.netlify.app/)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Shubham007-tech?tab=repositories)**
 
 - 📫 How to reach me **shubham.202cricket@gmail.com**
